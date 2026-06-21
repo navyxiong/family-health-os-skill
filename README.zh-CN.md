@@ -57,12 +57,12 @@ hermes profile use $PROFILE_NAME
 
 发给你的 agent：
 
-> *"给奶奶建一份档案：姓名王建国，男，1948年5月30日出生，过敏青霉素，家族高血压。"*
+> *"给奶奶建一份档案：姓名乐天福，女，1948年5月30日出生，过敏青霉素，家族高血压。"*
 
 agent 会自动建档，输出：
 
 ```
-已录入。患者档案 | 王建国 | 1事件
+已录入。患者档案 | 乐天福 | 1事件
 ```
 
 ---
@@ -173,8 +173,8 @@ family-health-os-skill/
 ```json
 {
   "id": "70520347-1234-5678-9abc-def012345678",
-  "name": "王建国",
-  "gender": "male",
+  "name": "乐天福",
+  "gender": "female",
   "birthDate": "1948-05-30",
   "allergies": [
     {"allergen": "青霉素", "severity": "severe", "reaction": "皮疹"}
