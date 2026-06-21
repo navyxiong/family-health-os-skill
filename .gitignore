@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editors
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+logs/
+
+# Sensitive data (NEVER commit real medical records)
+memory/data/*.json
+memory/data/*.json.bak
+!memory/data/.gitkeep
+!memory/schemas/.gitkeep
+
+# Real medical images (may contain PHI)
+uploads/
+attachments/
+*.dcm
+*.pdf
+!examples/sample-data/.gitkeep

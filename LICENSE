@@ -1,0 +1,35 @@
+MIT License
+
+Copyright (c) 2026 Family Health OS Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+MEDICAL DATA DISCLAIMER
+
+This software is a structured information management tool. It does NOT provide
+medical diagnosis, treatment recommendations, or clinical decision support.
+All clinical information must be reviewed and interpreted by qualified
+healthcare professionals. The authors and contributors are not liable for any
+medical decisions made based on data stored in this system.
+
+本软件为结构化信息管理工具，**不提供医疗诊断、治疗建议或临床决策支持**。
+所有临床信息须由具备资质的医疗专业人员审阅和解读。
+因使用本系统存储的数据做出医疗决策而产生的任何后果，作者及贡献者不承担责任。

@@ -1,0 +1,13 @@
+# Family Health OS Skill — Python dependencies
+#
+# Core engine relies ONLY on the Python standard library (json, uuid, fcntl, datetime).
+# Hermes framework is required as the runtime host.
+#
+# Optional dependencies for analysis skills (auto-loaded by the agent when needed):
+
+# Required: Hermes Agent framework
+hermes-agent>=0.5
+
+# Optional: OCR for medical report images (loaded by report-analyzer workflow)
+# pymupdf>=1.23
+# pillow>=10.0
